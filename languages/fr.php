@@ -5,9 +5,9 @@
 
 $french = array(
 	'admin:administer_utilities:adminshout' => 'Annonce Email',
-	'adminshout' => 'Envoyer un message à tous les membres',
+	'adminshout' => 'Envoi d\'un message à tous les membres',
 	'adminshout:description' => 'Utilisez le formulaire ci-dessous pour envoyer un message à tous les membres de votre site. Notez que cela peut prendre un certain temps.',
-	'adminshout:subject:label' => 'Subjet',
+	'adminshout:subject:label' => 'Sujet',
 	'adminshout:message:label' => 'Votre message',
 	'adminshout:success' => 'Message envoyé avec succès aux membres',
 	'adminshout:fail' => 'Impossible de notifier les utilisateurs',
